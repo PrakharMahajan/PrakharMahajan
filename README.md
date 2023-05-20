@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmahajan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharmahajan" alt="prakharmahajan" /></a> </p>
-
 - 🔭 I’m currently working on [DeepHepa-C](https://github.com/PrakharMahajan/DeepHepa-C)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Structures & Machine Learning**
