@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prakharmahajan002@gmail.com**
 
-- 📄 Resume link [https://tinyurl.com/2fbsu2sv](https://tinyurl.com/2fbsu2sv](https://tinyurl.com/5fbduf2u)
+- 📄 Resume link https://tinyurl.com/5fbduf2u
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
