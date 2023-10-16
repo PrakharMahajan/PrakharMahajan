@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmahajan" /> </p>
 
-- 🔭 I’m currently working on [DeepHepa-C](https://github.com/PrakharMahajan/DeepHepa-C)
+- 🔭 I’m currently working at [IMARC Services Pvt. Ltd.]
 
 - 🌱 I’m currently learning **Web Scraping & Machine Learning**
 
