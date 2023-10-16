@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [DeepHepa-C](https://github.com/PrakharMahajan/DeepHepa-C)
 
-- 🌱 I’m currently learning **Artificial Intelligence, Data Structures & Machine Learning**
+- 🌱 I’m currently learning **Web Scraping & Machine Learning**
 
 - 💬 Ask me about **Python, AI & ML**
 
 - 📫 How to reach me **prakharmahajan002@gmail.com**
 
-- 📄 Resume link [https://tinyurl.com/2fbsu2sv](https://tinyurl.com/2fbsu2sv)
+- 📄 Resume link [https://tinyurl.com/2fbsu2sv](https://tinyurl.com/2fbsu2sv](https://tinyurl.com/5fbduf2u)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
