@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmahajan" /> </p>
 
-- 🔭 I’m currently working at [IMARC Services Pvt. Ltd.]
+- 🔭 I’m currently working at IMARC Services Pvt. Ltd.
 
 - 🌱 I’m currently learning **Web Scraping & Machine Learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prakharmahajan002@gmail.com**
 
-- 📄 Resume link https://tinyurl.com/5fbduf2u
+- 📄 Resume link [LINK](https://tinyurl.com/5fbduf2u)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
